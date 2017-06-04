@@ -4,4 +4,4 @@ Coding challenge 01 from [coding train](http://www.codingtra.in): a "star field"
 
 ## How to start
 
-Download rep and load index.html into your browser.
+Download rep and load index.html into your browser or follow [this link](http://theman.zone/c01-starfield/).
